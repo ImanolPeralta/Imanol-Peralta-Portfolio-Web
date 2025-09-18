@@ -101,7 +101,7 @@ PORTFOLIO-WEB
 
 ## 🌐 Demo en línea
 
-👉 [Ver demo en Vercel]([https://imanolperalta.vercel.app](https://imanol-peralta-portfolio-web.vercel.app/))  
+👉 [Ver demo en Vercel](https://imanol-peralta-portfolio-web.vercel.app/) 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
