@@ -1,0 +1,58 @@
+{
+  "navbar": {
+    "home": "Inicio",
+    "about": "Sobre Mi",
+    "projects": "Proyectos",
+    "contact": "Contacto",
+    "name": "IMANOL PERALTA"
+  },
+  "hero": {
+    "intro": "Hola, soy Imanol Peralta 👋",
+    "title": "Front End",
+    "subtitle": "Developer",
+    "description": "Siempre listo para nuevos desafíos que impulsen mi crecimiento profesional y creativo.",
+    "btnProjects": "Ver proyectos",
+    "btnCV": "Descargar CV"
+  },
+  "about": {
+    "aboutTitle": "Sobre Mí",
+    "aboutDescription": "Soy <span class=\"highlight\">Imanol Augusto Peralta</span>, desarrollador de software especializado en <span class=\"speciality\">Front-End</span>. Desde mi infancia me apasiona la tecnología y el desarrollo, lo que me llevó a formarme y desarrollar un perfil creativo con fuerte interés en el diseño digital. Combino mis conocimientos técnicos con habilidades de diseño para crear interfaces web atractivas, funcionales y centradas en la experiencia del usuario. Actualmente, trabajo en el desarrollo de páginas y aplicaciones web que buscan generar impacto visual y usabilidad, siempre con un enfoque innovador. Me motiva enfrentar nuevos desafíos que impulsen mi crecimiento profesional y me permitan ofrecer soluciones creativas y efectivas para las empresas y proyectos en los que colaboro.",
+    "contactMe": "Contáctame",
+    "skillsTitle": "Habilidades Técnicas"
+  },
+  "contact": {
+    "contactTitle": "Contáctame",
+    "contactSubtitle": "¿Tienes un proyecto en mente? Escríbeme y lo hablamos 🚀",
+    "placeholderName": "Tu nombre",
+    "placeholderEmail": "Tu correo",
+    "placeholderMessage": "Escribe tu mensaje...",
+    "sendButton": "Enviar",
+    "successMessage": "¡Muchas gracias por tu mensaje! Te responderé a la brevedad 🫡. ¡Que tengas un excelente día! 🌞",
+    "errorMessage": "No se pudo enviar el mensaje ❌😞. Por favor, intenta nuevamente 🙏🏼."
+  },
+  "footer": {
+    "role": "Front End Developer",
+    "desc": "Siempre listo para nuevos desafíos que impulsen mi crecimiento profesional y creativo.",
+    "connect": "Conectemos",
+    "rights": "Todos los derechos reservados."
+  },
+  "projects": {
+    "title": "Mis Proyectos",
+    "musicianPro": {
+      "title": "Musician Pro",
+      "description": "E-commerce de instrumentos musicales con carrito, login, CRUD de productos y diseño responsive. Incluye slider, cards de productos y menú de navegación completo."
+    },
+    "theDevStore": {
+      "title": "The Dev Store",
+      "description": "E-commerce en React JS con Firestore, carrito de compras, filtros dinámicos y navegación por categorías. Desarrollo modular y manejo de datos en tiempo real."
+    },
+    "steelBlock": {
+      "title": "Steel Block",
+      "description": "Web para empresa constructora con servicios y proyectos destacados, incluye generador de presupuestos online. Desarrollo con JavaScript puro, integrando lógica síncrona y asíncrona."
+    },
+    "carsWorldWide": {
+      "title": "Cars World Wide",
+      "description": "Sitio web de catálogo de autos con fichas técnicas, formularios de contacto y ventas. Interfaz moderna y responsiva con Bootstrap y estilos personalizados."
+    }
+  }
+}

@@ -1,36 +1,123 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 💻 Mi Portfolio Web | Imanol Peralta
 
-## Getting Started
+Este portfolio web fue desarrollado con dedicación y pasión 🛠️ por **Imanol Peralta**, utilizando **Next.js y React**.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## 🧩 Características principales
+
+- 🌍 **Soporte multilenguaje:** Español e Inglés implementado con **i18next**.
+- 🎨 **Interfaz moderna y responsive:** Minimalista y adaptable a desktop, tablet y mobile.
+- 🎨 **Paleta de colores:**
+
+  | Nombre        | Hex       | Muestra                                  |
+  | ------------- | --------- | ---------------------------------------- |
+  | Fondo         | `#000000` | <img style="border:8px solid #000000;"/> |
+  | Fondo alterno | `#111111` | <img style="border:8px solid #111111;"/> |
+  | Texto         | `#ffffff` | <img style="border:8px solid #ffffff;"/> |
+  | Texto alterno | `#a1a1aa` | <img style="border:8px solid #a1a1aa;"/> |
+  | Acento I      | `#bf7af0` | <img style="border:8px solid #bf7af0;"/> |
+  | Acento II     | `#bf7af0` | <img style="border:8px solid #22d3ee;"/> |
+  | Bordes        | `#27272a` | <img style="border:8px solid #27272a;"/> |
+
+- 🖼️ **Íconos:** Usados de **React Icons** y **Font Awesome**.
+- 🎨 **Estilos personalizados:** Con **CSS puro** para consistencia visual.
+- 💠 **Diseño de componentes y animaciones:** Cards de proyectos, íconos de skills, botones, efectos de bordes y animaciones de texto inspirados en **Aceternity UI**, **ScrollX UI** y **Framer Motion**, bibliotecas de UI.
+- 📧 **Formulario de contacto:** Integrado con **Formspree**.
+
+---
+
+## 🔧 Tecnologías
+
+### Tecnologías principales
+
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) : **Lenguaje base.**
+- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) : **Construcción de la interfaz.**
+- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) : **Framework con SSR y optimización.**
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) : **Estilos adaptativos y personalizados.**
+
+### Tecnologías complementarias
+
+- ![i18next](https://img.shields.io/badge/i18next-26A69A?style=for-the-badge&logo=i18next&logoColor=white) → **Internacionalización (multi-idioma).**
+- ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white) → **Animaciones.**
+- ⚡ **Aceternity UI** : **Colección de componentes prearmados para UI.**
+- ⚡ **ScrollX UI** : **Librería para efectos de scroll modernos.**
+
+---
+
+## 📂 Estructura del proyecto
+
+```
+PORTFOLIO-WEB
+├── public
+│   ├── images
+│   │   ├── carsworldwide-screenshot.jpeg
+│   │   ├── espana.png
+│   │   └── ...
+│   └── locales
+│       ├── en
+│       │   └── common.json
+│       └── es
+│           └── common.json
+├── src
+│   ├── app
+│   │   ├── components
+│   │   │   ├── ui
+│   │   │   │   └── HoverBorderGradient.js
+│   │   │   ├── Hero.js
+│   │   │   └── Navbar.js
+│   │   ├── about.js
+│   │   ├── contact.js
+│   │   └── ...
+│   └── i18.js
+├── styles
+│   └── globals.css
+├── .gitignore
+├── eslint.config.mjs
+├── jsconfig.json
+├── next-i18next.config.js
+├── next.config.js
+├── package.json
+└── README.md
+
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## 🚀 Cómo ejecutar el proyecto en local
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+1. Clonar el repositorio:  
+   git clone https://github.com/ImanolPeralta/turepo.git
+   cd turepo
 
-## Learn More
+2. Instalar dependencias:  
+   npm install
 
-To learn more about Next.js, take a look at the following resources:
+3. Ejecutar en modo desarrollo:  
+   npm run dev
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+4. Abrir en el navegador:  
+   http://localhost:3000
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🌐 Demo en línea
 
-## Deploy on Vercel
+👉 [Ver demo en Vercel](https://imanolperalta.vercel.app)  
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 👨‍💻 Autor
+
+**Imanol Augusto Peralta**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imanol-augusto-peralta)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ImanolPeralta)
+
+---
+
+## 📜 Licencia
+
+Este proyecto está bajo la licencia **MIT** – podés usarlo libremente.  
+[Ver licencia completa](LICENSE)
+
+---
