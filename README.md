@@ -10,15 +10,15 @@ Este portfolio web fue desarrollado con dedicación y pasión 🛠️ por **Iman
 - 🎨 **Interfaz moderna y responsive:** Minimalista y adaptable a desktop, tablet y mobile.
 - 🎨 **Paleta de colores:**
 
-  | Nombre        | Hex       | Muestra                                  |
-  | ------------- | --------- | ---------------------------------------- |
-  | Fondo         | `#000000` | <img style="border:8px solid #000000;"/> |
-  | Fondo alterno | `#111111` | <img style="border:8px solid #111111;"/> |
-  | Texto         | `#ffffff` | <img style="border:8px solid #ffffff;"/> |
-  | Texto alterno | `#a1a1aa` | <img style="border:8px solid #a1a1aa;"/> |
-  | Acento I      | `#bf7af0` | <img style="border:8px solid #bf7af0;"/> |
-  | Acento II     | `#bf7af0` | <img style="border:8px solid #22d3ee;"/> |
-  | Bordes        | `#27272a` | <img style="border:8px solid #27272a;"/> |
+  | Nombre        | Hex       | Muestra                                                       |
+  | ------------- | --------- | ------------------------------------------------------------- |
+  | Fondo         | `#000000` | ![Fondo](https://img.shields.io/badge/-000000-000000)         |
+  | Fondo alterno | `#111111` | ![Fondo alterno](https://img.shields.io/badge/-111111-111111) |
+  | Texto         | `#ffffff` | ![Texto](https://img.shields.io/badge/-ffffff-ffffff)         |
+  | Texto alterno | `#a1a1aa` | ![Texto alterno](https://img.shields.io/badge/-a1a1aa-a1a1aa) |
+  | Acento I      | `#bf7af0` | ![Acento I](https://img.shields.io/badge/-bf7af0-bf7af0)      |
+  | Acento II     | `#bf7af0` | ![Acento II](https://img.shields.io/badge/-22d3ee-22d3ee)     |
+  | Bordes        | `#27272a` | ![Bordes](https://img.shields.io/badge/-27272a-27272a)        |
 
 - 🖼️ **Íconos:** Usados de **React Icons** y **Font Awesome**.
 - 🎨 **Estilos personalizados:** Con **CSS puro** para consistencia visual.
@@ -87,7 +87,7 @@ PORTFOLIO-WEB
 ## 🚀 Cómo ejecutar el proyecto en local
 
 1. Clonar el repositorio:  
-   git clone https://github.com/ImanolPeralta/turepo.git
+   git clone https://github.com/ImanolPeralta/Imanol-Peralta-Portfolio-Web.git
    cd turepo
 
 2. Instalar dependencias:  
