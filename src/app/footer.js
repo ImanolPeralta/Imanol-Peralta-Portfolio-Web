@@ -41,7 +41,7 @@ const Footer = () => {
           </div>
           <p className="footer-role">{t("footer.role")}</p>
           <p className="footer-desc">
-            {t("footer.description")}
+            {t("footer.desc")}
           </p>
         </div>
 
